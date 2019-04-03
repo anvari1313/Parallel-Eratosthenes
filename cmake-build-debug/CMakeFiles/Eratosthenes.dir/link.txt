@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Eratosthenes.dir/main.cpp.o CMakeFiles/Eratosthenes.dir/single_thread.cpp.o CMakeFiles/Eratosthenes.dir/eratosthenes.cpp.o CMakeFiles/Eratosthenes.dir/multi_thread.cpp.o CMakeFiles/Eratosthenes.dir/multi_process.cpp.o  -o Eratosthenes -lpthread 
